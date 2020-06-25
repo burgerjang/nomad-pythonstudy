@@ -1,0 +1,6 @@
+- Lists & Tuples are different.
+  - Lists : mutable
+  - Tuples : immutable
+
+- Dictionary : Make bundle of `key:value`
+
